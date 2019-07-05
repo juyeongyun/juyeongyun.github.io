@@ -8,11 +8,11 @@
 # Site settings
 react:
   title: Material Bliss
-  name: Andrew Plaza
+  name: juyeongyun
   menu_right_subtitle: Blogger || Computer Scientist
   avatar: http://api.adorable.io/avatar/aplaza@liquidthink.net
   logo: static/img/logo_theme.jpg
-  email: aplaza@liquidthink.net
+  email: yunssine1won@gmail.com
   description: > # this means to ignore newlines until "baseurl:"
     Write an awesome description for your new site here. You can edit this
     line in _config.yml. It will appear in your document head meta (for
